@@ -3,8 +3,6 @@
 <h1 align="center">
   <img align="center" src="/misc/img/dsls.png"  width="270"></img>
   <img align="center" src="/misc/img/dto.png"  width="270"></img>
-<br>
-DocBot
 </h1>
 
 # Profile
